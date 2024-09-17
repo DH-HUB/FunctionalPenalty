@@ -46,12 +46,6 @@ Clone le dépôt sur votre machine locale :
 
 ![alt text](image-2.png)
 
-**Installez les dépendances nécessaires :**
-'npm install'
-
-**Pour exécuter le programme, utilisez la commande suivante :**
-
-'npm start'
 **our exécuter les tests, lancez la commande suivante :**
 
 'npm test'
